@@ -1,0 +1,28 @@
+# Python / Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+pip-selfcheck.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Outputs
+rapport_html/
+*.log
+
+# VS Code
+.vscode/
+
+# Project Specific
+# hospital_data.csv (removed from ignore per user request)
